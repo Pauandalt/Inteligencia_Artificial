@@ -1,4 +1,4 @@
-# IoT: Internet of the Things, *el internet de las cosas*
+# IA: Inteligencia Artificial
 
 ### Objetivo
 
