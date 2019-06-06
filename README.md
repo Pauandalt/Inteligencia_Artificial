@@ -2,6 +2,8 @@
 
 ### Objetivo
 
+![alt text](algorithm2orange.1.jpg)
+
 | Contenido | Duración |
 | ----- | ----- |
 | **Clase** | **1 hora** |
