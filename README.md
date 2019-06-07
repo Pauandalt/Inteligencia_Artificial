@@ -71,11 +71,15 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 [source](https://www.frontiersin.org/research-topics/4817/artificial-neural-networks-as-models-of-neural-information-processing): «Artificial Neural Networks as Models of Neural Information Processing Frontiers Research Topic» (en inglés). Consultado el 7 de junio de 2019.
 
-[![IMAGE ALT TEXT HERE](video_explicación_Sencillo_RedN.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw) *explicación de qué es una red neuronal y de cómo trabaja de manera sencilla*
+[![IMAGE ALT TEXT HERE](video_explicación_Sencillo_RedN.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw) 
+
+*Explicación de qué es una red neuronal y de cómo trabaja de manera sencilla*
 
 ### Cómo trabaja:
 
-[![IMAGE ALT TEXT HERE](Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) *Video muy extenso pero muy completo sobre la explicación de cómo funciona una red neuronal. El profesor puede elegir que fragmentos poner dependiendo de cuanto se quiera profundizar.*
+[![IMAGE ALT TEXT HERE](Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+
+*Video muy extenso pero muy completo sobre la explicación de cómo funciona una red neuronal. El profesor puede elegir que fragmentos poner dependiendo de cuanto se quiera profundizar.*
 
 [ejemplo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html) ejemplo de como una red neuronal clasefica los datos. Muy parecida a la práctica que se realizará al final de la clase
 
