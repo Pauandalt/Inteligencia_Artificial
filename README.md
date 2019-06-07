@@ -13,3 +13,39 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 | [Práctica](https://pauandalt.github.io/Practica_Redes_Neuronales/) | 30-45 minutos ||
 
 ***
+## Inteligencia Arificial
+
++ Qué es:
+
++ Cuáles son sus fundamentos:
+
++ Qué tipos existen:
+
+TIPOS DE INTELIGENCIA ARTIFICIAL
+>Los expertos en ciencias de la computación Stuart Russell y Peter Norvig diferencian varios tipos de inteligencia artificial:
+
++> Sistemas que piensan como humanos: automatizan actividades como la toma de decisiones, la resolución de problemas y el aprendizaje. Un ejemplo son las redes neuronales artificiales.
+
++ >Sistemas que actúan como humanos: se trata de computadoras que realizan tareas de forma similar a como lo hacen las personas. Es el caso de los robots.
+
++ >Sistemas que piensan racionalmente: intentan emular el pensamiento lógico racional de los humanos, es decir, se investiga cómo lograr que las máquinas puedan percibir, razonar y actuar en consecuencia. Los sistemas expertos se engloban en este grupo.
+
++ >Sistemas que actúan racionalmente: idealmente, son aquellos que tratan de imitar de manera racional el comportamiento humano, como los agentes inteligentes.
+
+[Source](https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial)
+
+! [Alt text](Inteligencia_746x419.jpeg)
+
+## Redes Neuronales
+
++ Qué es una red neuronal:
+
++ Cómo trabaja:
+
+[![IMAGE ALT TEXT HERE](Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)]: video muy extenso pero muy completo sobre la explicación de cómo funciona una red neuronal. El profesor puede elegir que fragmentos poner dependiendo de cuanto se quiera profundizar.
+
+[ejemplo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html) ejemplo de como una red neuronal clasefica los datos. Muy parecida a la práctica que se realizará al final de la clase
+
+## Qué supondrá para nosotros, podemos controlarla completamente?
+
+https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it?referrer=playlist-talks_on_artificial_intelligen#t-4542
