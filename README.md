@@ -18,6 +18,13 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 ![Alt text](Inteligencia_746x419.jpeg)
 
 ### Qué es:
++ [Link 1](https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial)
+
++ [Link 2](https://es.wikipedia.org/wiki/Inteligencia_artificial)
+
+> La inteligencia artificial (IA), es la inteligencia llevada a cabo por máquinas. En ciencias de la computación, una máquina «inteligente» ideal es un agente flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades de éxito en algún objetivo o tarea.
+
+[source](http://people.cs.ubc.ca/~poole/ci/ch1.pdf): Poole, David. «Computational Intelligence: A Logical Approach» (en inglés). Nueva York: Oxford University Press. p. 1. Consultado el 7 de junio de 2019.
 
 ### Cuáles son sus fundamentos:
 
