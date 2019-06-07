@@ -59,7 +59,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ## Redes Neuronales
 
-+ Qué es una red neuronal:
+### Qué es una red neuronal:
 
 +[Link 2](https://es.wikipedia.org/wiki/Red_neuronal_artificial#cite_note-1):
 
@@ -69,7 +69,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 [![IMAGE ALT TEXT HERE](video_explicación_Sencillo_RedN.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw) *explicación sencilla de qué es una red neuronal y cómo trabaja*
 
-+ Cómo trabaja:
+### Cómo trabaja:
 
 [![IMAGE ALT TEXT HERE](Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) *video muy extenso pero muy completo sobre la explicación de cómo funciona una red neuronal. El profesor puede elegir que fragmentos poner dependiendo de cuanto se quiera profundizar.*
 
