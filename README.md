@@ -9,7 +9,20 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 | Contenido | Duración |
 | ----- | ----- |
-| **Clase** | **1 hora** |
+| **Clase** | **75 minutos** |
+| **Inteligencia Arificial** | **30 minutos** |
+| Qué es | 10 minutoa |
+| Cuáles son sus fundamentos | 5 minutos |
+| Tipos de inteligencia artificial | 5 minutos |
+| Aplicaciones prácticas de la inteligencia artificial | 10 minutos |
+| **Redes Neuronales** | **15 minutos** |
+| Qué es una red neuronal | 10 minutos |
+| Cómo trabaja | 2,5 minutos |
+| Ejemplo | 2,5 minutos |
+| **Qué supondrá** | **20 minutos** |
+| **Práctica en Redes Neuronales** | **45 minutos** |
+
+
 | [Práctica](https://pauandalt.github.io/Practica_Redes_Neuronales/) | 30-45 minutos ||
 
 ***
