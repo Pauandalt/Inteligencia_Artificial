@@ -33,6 +33,10 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ### TIPOS DE INTELIGENCIA ARTIFICIAL
 
++ [Link 1](https://www.apd.es/tipos-de-inteligencia-artificial/)
+
++ [Link 2](https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial):
+
 >Los expertos en ciencias de la computación Stuart Russell y Peter Norvig diferencian varios tipos de inteligencia artificial:
 
 + >Sistemas que piensan como humanos: automatizan actividades como la toma de decisiones, la resolución de problemas y el aprendizaje. Un ejemplo son las redes **_neuronales artificiales_**.
