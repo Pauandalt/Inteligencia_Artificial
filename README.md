@@ -29,7 +29,11 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 [source](http://people.cs.ubc.ca/~poole/ci/ch1.pdf): Poole, David. «Computational Intelligence: A Logical Approach» (en inglés). Nueva York: Oxford University Press. p. 1. Consultado el 7 de junio de 2019.
 
-### Cuáles son sus fundamentos:
+### Cuáles son sus fundamentos: *(contenido opcional: no es necesario saber los fundamentos para conocer su funcionamiento y usos)
+
++ [Link 1](http://intartificialdcarolinamolina.blogspot.com/2015/11/fundamentos-de-la-inteligencia.html): *fundamentos de la IA explicados basandose en las diferentes disciplinas sobre las que se ha construido
+
+* [link 2](http://www.ia.urjc.es/grupo/docencia/fia/material/temario_FIA_tema1.pdf): *fundamentos de la inteligencia artificial explicados muy extensamente*
 
 ### TIPOS DE INTELIGENCIA ARTIFICIAL
 
