@@ -45,7 +45,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 + Cómo trabaja:
 
-[![IMAGE ALT TEXT HERE](Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)]: video muy extenso pero muy completo sobre la explicación de cómo funciona una red neuronal. El profesor puede elegir que fragmentos poner dependiendo de cuanto se quiera profundizar.
+[![IMAGE ALT TEXT HERE](Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) *video muy extenso pero muy completo sobre la explicación de cómo funciona una red neuronal. El profesor puede elegir que fragmentos poner dependiendo de cuanto se quiera profundizar.*
 
 [ejemplo](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html) ejemplo de como una red neuronal clasefica los datos. Muy parecida a la práctica que se realizará al final de la clase
 
