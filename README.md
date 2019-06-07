@@ -19,9 +19,9 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ### Qué es:
 
-+ [Link 1](https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial)
++ [Link 1](https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial): *En el primer parrafo se define qué es la inteligencia artificial*
 
-+ [Link 2](https://es.wikipedia.org/wiki/Inteligencia_artificial)
++ [Link 2](https://es.wikipedia.org/wiki/Inteligencia_artificial): *Definición más extensa, incluye definición técnica y no técnica.*
 
 + [Link 3](http://people.cs.ubc.ca/~poole/ci/ch1.pdf): 
 
@@ -31,7 +31,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ### Cuáles son sus fundamentos: *(contenido opcional: no es necesario saber los fundamentos para conocer su funcionamiento y usos)
 
-+ [Link 1](http://intartificialdcarolinamolina.blogspot.com/2015/11/fundamentos-de-la-inteligencia.html): *fundamentos de la IA explicados basandose en las diferentes disciplinas sobre las que se ha construido
++ [Link 1](http://intartificialdcarolinamolina.blogspot.com/2015/11/fundamentos-de-la-inteligencia.html): *fundamentos de la IA explicados basandose en las diferentes disciplinas sobre las que se ha construido*
 
 * [link 2](http://www.ia.urjc.es/grupo/docencia/fia/material/temario_FIA_tema1.pdf): *fundamentos de la inteligencia artificial explicados muy extensamente*
 
