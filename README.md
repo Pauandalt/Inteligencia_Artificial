@@ -23,7 +23,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 + [Link 2](https://es.wikipedia.org/wiki/Inteligencia_artificial)
 
-+[Link 3](http://people.cs.ubc.ca/~poole/ci/ch1.pdf): 
++ [Link 3](http://people.cs.ubc.ca/~poole/ci/ch1.pdf): 
 
 > La inteligencia artificial (IA), es la inteligencia llevada a cabo por máquinas. En ciencias de la computación, una máquina «inteligente» ideal es un agente flexible que percibe su entorno y lleva a cabo acciones que maximicen sus posibilidades de éxito en algún objetivo o tarea.
 
