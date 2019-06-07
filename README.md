@@ -61,7 +61,11 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ### Qué es una red neuronal:
 
-+ [Link 2](https://es.wikipedia.org/wiki/Red_neuronal_artificial#cite_note-1):
++ [Link 1](https://www.xataka.com/robotica-e-ia/las-redes-neuronales-que-son-y-por-que-estan-volviendo): *artículo divulgativo sobre las redes neuronales*
+
++ [Link 2](https://es.wikipedia.org/wiki/Red_neuronal_artificial#cite_note-1): *Redes neuronales de manera extensa*
+
++ [Link 3](http://avellano.fis.usal.es/~lalonso/RNA/index.htm): *Redes neuronales artículo técnico*
 
 > Las redes neuronales artificiales (también conocidas como sistemas conexionistas) son un modelo computacional vagamente inspirado en el comportamiento observado en su homólogo biológico.
 
