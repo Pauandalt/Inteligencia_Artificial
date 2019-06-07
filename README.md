@@ -77,6 +77,14 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ### Cómo trabaja:
 
++ [Link 1](https://www.ticbeat.com/tecnologias/como-funcionan-las-redes-neuronales-artificiales-te-lo-explicamos-de-forma-sencilla/): *artículo divulgativo sobre el funcionamiento de las redes neuronales*
+
++ [Link 2](https://www.t-systemsblog.es/redes-neuronales/): *explicación de lo que son las redes neuronales por T-Mobile*
+
++ [Link 3](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html): Aclaración redes neuronales con simulador, University of Stanford*
+
++ Video:
+
 [![IMAGE ALT TEXT HERE](Video_Red_Neuronal.PNG)](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
 
 *Video muy extenso pero muy completo sobre la explicación de cómo funciona una red neuronal. El profesor puede elegir que fragmentos poner dependiendo de cuanto se quiera profundizar.*
