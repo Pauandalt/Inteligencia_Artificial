@@ -24,7 +24,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 TIPOS DE INTELIGENCIA ARTIFICIAL
 >Los expertos en ciencias de la computación Stuart Russell y Peter Norvig diferencian varios tipos de inteligencia artificial:
 
-+> Sistemas que piensan como humanos: automatizan actividades como la toma de decisiones, la resolución de problemas y el aprendizaje. Un ejemplo son las redes neuronales artificiales.
++ >Sistemas que piensan como humanos: automatizan actividades como la toma de decisiones, la resolución de problemas y el aprendizaje. Un ejemplo son las redes neuronales artificiales.
 
 + >Sistemas que actúan como humanos: se trata de computadoras que realizan tareas de forma similar a como lo hacen las personas. Es el caso de los robots.
 
@@ -34,7 +34,7 @@ TIPOS DE INTELIGENCIA ARTIFICIAL
 
 [Source](https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial)
 
-! [Alt text](Inteligencia_746x419.jpeg)
+![Alt text](Inteligencia_746x419.jpeg)
 
 ## Redes Neuronales
 
