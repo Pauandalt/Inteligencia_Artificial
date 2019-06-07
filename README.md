@@ -15,26 +15,29 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 ***
 ## Inteligencia Arificial
 
-+ Qué es:
+![Alt text](Inteligencia_746x419.jpeg)
 
-+ Cuáles son sus fundamentos:
+### Qué es:
 
-+ Qué tipos existen:
+### Cuáles son sus fundamentos:
 
-TIPOS DE INTELIGENCIA ARTIFICIAL
+### TIPOS DE INTELIGENCIA ARTIFICIAL
+
 >Los expertos en ciencias de la computación Stuart Russell y Peter Norvig diferencian varios tipos de inteligencia artificial:
 
-+ >Sistemas que piensan como humanos: automatizan actividades como la toma de decisiones, la resolución de problemas y el aprendizaje. Un ejemplo son las redes neuronales artificiales.
++ >Sistemas que piensan como humanos: automatizan actividades como la toma de decisiones, la resolución de problemas y el aprendizaje. Un ejemplo son las redes **_neuronales artificiales_**.
 
-+ >Sistemas que actúan como humanos: se trata de computadoras que realizan tareas de forma similar a como lo hacen las personas. Es el caso de los robots.
++ >Sistemas que actúan como humanos: se trata de computadoras que realizan tareas de forma similar a como lo hacen las personas. Es el caso de los **_robots_**.
 
-+ >Sistemas que piensan racionalmente: intentan emular el pensamiento lógico racional de los humanos, es decir, se investiga cómo lograr que las máquinas puedan percibir, razonar y actuar en consecuencia. Los sistemas expertos se engloban en este grupo.
++ >Sistemas que piensan racionalmente: intentan emular el pensamiento lógico racional de los humanos, es decir, se investiga cómo lograr que las máquinas puedan percibir, razonar y actuar en consecuencia. Los **_sistemas expertos_** se engloban en este grupo.
 
-+ >Sistemas que actúan racionalmente: idealmente, son aquellos que tratan de imitar de manera racional el comportamiento humano, como los agentes inteligentes.
++ >Sistemas que actúan racionalmente: idealmente, son aquellos que tratan de imitar de manera racional el comportamiento humano, como los **_agentes inteligentes_**.
 
 [Source](https://www.iberdrola.com/te-interesa/tecnologia/que-es-inteligencia-artificial)
 
-![Alt text](Inteligencia_746x419.jpeg)
+### Aplicaciones prácticas de la inteligencia artificial
+
+[Infografía](https://www.iberdrola.com/wcorp/gc/prod/es_ES/comunicacion/docs/Infografia_inteligencia_artificial.pdf)
 
 ## Redes Neuronales
 
