@@ -69,7 +69,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 > Las redes neuronales artificiales (también conocidas como sistemas conexionistas) son un modelo computacional vagamente inspirado en el comportamiento observado en su homólogo biológico.
 
-[source](https://www.frontiersin.org/research-topics/4817/artificial-neural-networks-as-models-of-neural-information-processing): «Artificial Neural Networks as Models of Neural Information Processing | Frontiers Research Topic» (en inglés). Consultado el 7 de junio de 2019.
+[source](https://www.frontiersin.org/research-topics/4817/artificial-neural-networks-as-models-of-neural-information-processing): «Artificial Neural Networks as Models of Neural Information Processing Frontiers Research Topic» (en inglés). Consultado el 7 de junio de 2019.
 
 [![IMAGE ALT TEXT HERE](video_explicación_Sencillo_RedN.PNG)](https://www.youtube.com/watch?v=6vwfT3-mBBw) *explicación de qué es una red neuronal y de cómo trabaja de manera sencilla*
 
