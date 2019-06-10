@@ -110,6 +110,12 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ## Qué supondrá para nosotros, podemos controlarla completamente?
 
+Revolución de la industria tra la IA:
+
+-[Link](https://sloanreview.mit.edu/article/how-ai-will-define-new-industries/): *Artículo "How AI Will Define New Industries" del MITSloan
+
 *Se puede construir la inteligencia artificial sin perder el control sobre ella?* video TED TALKS:
 
 [![IMAGE ALT TEXT HERE](Video_TED.PNG)](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it?referrer=playlist-talks_on_artificial_intelligen#t-4542)
+
+
