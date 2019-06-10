@@ -112,13 +112,13 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 ### Arículos:
 
-+ Revolución de la industria tra la IA:
+Revolución de la industria tras la IA:
 
-[Link](https://sloanreview.mit.edu/article/how-ai-will-define-new-industries/): *Artículo "How AI Will Define New Industries" del MIT Sloan*
++ [Link](https://sloanreview.mit.edu/article/how-ai-will-define-new-industries/): Artículo "How AI Will Define New Industries" del MIT Sloan
 
-+ Plan para el trabajo del futuro:
+Plan para el trabajo del futuro:
 
-[Link](https://sloanreview.mit.edu/article/planning-for-the-future-of-work/): *Artículo "Planning for the Future of Work" del MIT Sloan*
++ [Link](https://sloanreview.mit.edu/article/planning-for-the-future-of-work/): *Artículo "Planning for the Future of Work" del MIT Sloan*
 
 ### TED TALSK
 
