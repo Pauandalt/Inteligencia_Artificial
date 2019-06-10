@@ -120,7 +120,7 @@ Plan para el trabajo del futuro:
 
 + [Link](https://sloanreview.mit.edu/article/planning-for-the-future-of-work/): *Artículo "Planning for the Future of Work" del MIT Sloan*
 
-### TED TALSK
+### TED TALKS
 
 + **Video 1:** Se puede construir la inteligencia artificial sin perder el control sobre ella? 
 
@@ -135,9 +135,7 @@ Plan para el trabajo del futuro:
 #### ARTÍCULOS
 
 + Time - 2045 The year man becomes immortal: [Link](http://content.time.com/time/printout/0,8816,2048299,00.html)
-
 + Artículo Human de lobmard odier: [Link](https://www.lombardodier.com/human)
-
 + Artículo de "*Wire*": [Link](https://www.wired.com/story/future-of-work-sci-fi-issue/?BottomRelatedStories_FutureofWork) 
 #### VIDEOS
 
