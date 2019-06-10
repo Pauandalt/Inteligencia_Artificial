@@ -129,3 +129,9 @@ Plan para el trabajo del futuro:
 + **Video 2:** Supondrá la automatización el fin de nuestros trabajos? 
 
 [![IMAGE ALT TEXT HERE](Video_TED2.PNG)](https://www.ted.com/talks/david_autor_why_are_there_still_so_many_jobs)
+
+### Contenido Adicional
+
++ Video reportaje de "*Redes*" sobre *El futuro: la fusión del alma y la tecnología*: [Link](http://www.rtve.es/alacarta/videos/redes/redes-futuro-fusion-del-alma-tecnologia/391648/)
++ Video "*The Singularity Is Near*":(https://www.youtube.com/watch?v=y5jiGeQBLTk)
++ Video "**Time**" - "A profound change"
