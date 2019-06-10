@@ -2,7 +2,7 @@
 
 ### Objetivo
 
-El objetivo de esta clase es que el alumno comprenda de manera simple qué es la inteligecia artificial. Así mismo, que interiorice conceptos  básicos asociados con la IA y que comprenda que supondrá en un futuro la implementación de esta tecnología.
+El objetivo de esta clase es que el alumno comprenda de manera simple qué es la inteligencia artificial. Así mismo, que interiorice conceptos  básicos asociados con la IA y que comprenda que supondrá en un futuro la implementación de esta tecnología.
 
 ![alt text](algorithm2orange.1.jpg)
 [source](https://www.technologyreview.com/s/612437/what-is-machine-learning-we-drew-you-another-flowchart/)
@@ -10,7 +10,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 | Contenido | Duración |
 | ----- | ----- |
 | **Clase** | **75 minutos** |
-| **Inteligencia Arificial** | **30 minutos** |
+| **Inteligencia Artificial** | **30 minutos** |
 | Qué es | 10 minutoa |
 | Cuáles son sus fundamentos | 5 minutos |
 | Tipos de inteligencia artificial | 5 minutos |
@@ -26,7 +26,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 | [Práctica](https://pauandalt.github.io/Practica_Redes_Neuronales/) | 30-45 minutos ||
 
 ***
-## Inteligencia Arificial
+## Inteligencia Artificial
 
 ![Alt text](Inteligencia_746x419.jpeg)
 
@@ -104,13 +104,13 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 #### Ejemplo
 
-[Link](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html): ejemplo de como una red neuronal clasefica los datos. Muy parecida a la práctica que se realizará al final de la clase
+[Link](https://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html): ejemplo de como una red neuronal clasifica los datos. Muy parecida a la práctica que se realizará al final de la clase
 
 ![alt text](Ejemplo_Red_Neuronal.PNG)
 
-## Qué supondrá para nosotros, podemos controlarla completamente?
+## ¿Qué supondrá para nosotros, podemos controlarla completamente?
 
-### Arículos:
+### Artículos:
 
 Revolución de la industria tras la IA:
 
@@ -122,11 +122,11 @@ Plan para el trabajo del futuro:
 
 ### TED TALKS
 
-+ **Video 1:** Se puede construir la inteligencia artificial sin perder el control sobre ella? 
++ **Video 1:** ¿Se puede construir la inteligencia artificial sin perder el control sobre ella? 
 
 [![IMAGE ALT TEXT HERE](Video_TED.PNG)](https://www.ted.com/talks/sam_harris_can_we_build_ai_without_losing_control_over_it?referrer=playlist-talks_on_artificial_intelligen#t-4542)
 
-+ **Video 2:** Supondrá la automatización el fin de nuestros trabajos? 
++ **Video 2:** ¿Supondrá la automatización el fin de nuestros trabajos? 
 
 [![IMAGE ALT TEXT HERE](Video_TED2.PNG)](https://www.ted.com/talks/david_autor_why_are_there_still_so_many_jobs)
 
