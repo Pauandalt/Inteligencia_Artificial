@@ -132,6 +132,17 @@ Plan para el trabajo del futuro:
 
 ### Contenido Adicional
 
+#### ARTÍCULOS
+
++ Time - 2045 The year man becomes immortal: [Link](http://content.time.com/time/printout/0,8816,2048299,00.html)
+
++ Artículo Human de lobmard odier: [Link](https://www.lombardodier.com/human)
+
++ Artículo de "*Wire*": [Link](https://www.wired.com/story/future-of-work-sci-fi-issue/?BottomRelatedStories_FutureofWork) 
+#### VIDEOS
+
 + Video reportaje de "*Redes*" sobre *El futuro: la fusión del alma y la tecnología*: [Link](http://www.rtve.es/alacarta/videos/redes/redes-futuro-fusion-del-alma-tecnologia/391648/)
-+ Video "*The Singularity Is Near*":(https://www.youtube.com/watch?v=y5jiGeQBLTk)
-+ Video "**Time**" - "A profound change"
++ Video "*The Singularity Is Near*": [link](https://www.youtube.com/watch?v=y5jiGeQBLTk)
++ Video "**Time**" - "A profound change" [Link](http://content.time.com/time/video/player/0,32068,784887564001_2048332,00.html)
+
+
