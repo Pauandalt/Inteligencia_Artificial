@@ -112,7 +112,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 
 + Revolución de la industria tra la IA:
 
-[Link](https://sloanreview.mit.edu/article/how-ai-will-define-new-industries/): *Artículo "How AI Will Define New Industries" del MITSloan
+[Link](https://sloanreview.mit.edu/article/how-ai-will-define-new-industries/): *Artículo "How AI Will Define New Industries" del MIT Sloan*
 
 + Se puede construir la inteligencia artificial sin perder el control sobre ella? *video TED TALKS:*
 
