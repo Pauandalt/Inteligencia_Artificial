@@ -140,7 +140,7 @@ Plan para el trabajo del futuro:
 #### VIDEOS
 
 + Video reportaje de "*Redes*" sobre *El futuro: la fusión del alma y la tecnología*: [Link](http://www.rtve.es/alacarta/videos/redes/redes-futuro-fusion-del-alma-tecnologia/391648/)
-+ Video "*The Singularity Is Near*": [link](https://www.youtube.com/watch?v=y5jiGeQBLTk)
++ Video "*The Singularity Is Near*": [Link](https://www.youtube.com/watch?v=y5jiGeQBLTk)
 + Video "**Time**" - "A profound change" [Link](http://content.time.com/time/video/player/0,32068,784887564001_2048332,00.html)
 
 
