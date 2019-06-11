@@ -11,7 +11,7 @@ El objetivo de esta clase es que el alumno comprenda de manera simple qué es la
 | ----- | ----- |
 | **Clase** | **75 minutos** |
 | **Inteligencia Artificial** | **30 minutos** |
-| Qué es | 10 minutoa |
+| Qué es | 10 minutos |
 | Cuáles son sus fundamentos | 5 minutos |
 | Tipos de inteligencia artificial | 5 minutos |
 | Aplicaciones prácticas de la inteligencia artificial | 10 minutos |
